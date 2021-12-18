@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi !👋
+
+- 🤖 I’m currently studying Master of Science in Robotics. 
+- 📫 How to reach me: barane@wpi.edu
 
 <!--
 **ranebhushan/ranebhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
