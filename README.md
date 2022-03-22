@@ -1,6 +1,9 @@
+# Bhushan Ashok Rane
+
 ### Howdy!👋
 
-- 🤖 I’m currently studying Master of Science in Robotics. 
+- 🤖 Robotics Graduate Student 
+- 🔭 I’m currently working on projects in the domain of compter vision, deep learning and motion planning 
 - 📫 How to reach me: barane@wpi.edu
 
 <!--
