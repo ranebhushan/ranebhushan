@@ -5,7 +5,7 @@
 - 🤖 Robotics Graduate Student 
 - 📫 How to reach me: barane@wpi.edu
 
-# Projects
+## Projects
 
 <!--
 **ranebhushan/ranebhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
