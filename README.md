@@ -2,8 +2,12 @@
 
 ### Howdy!👋
 
-- 🤖 Robotics Graduate Student 
-- 📫 How to reach me: barane@wpi.edu
+- 🤖 Robotics Graduate Student at WPI
+- 📫 Email: barane@wpi.edu
+- ⚡ Website: [ranebhushan.github.io](https://ranebhushan.github.io/)
+
+![Bhushan's Github Stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
