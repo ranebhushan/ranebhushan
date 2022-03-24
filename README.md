@@ -6,7 +6,7 @@
 📫 How to reach me : barane@wpi.edu <br>
 ⚡ Website: [ranebhushan.github.io](https://ranebhushan.github.io/) <br>
 
-![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true)
+![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=prs)
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact)
 
 ## 🧰 Tools and Technologies:
