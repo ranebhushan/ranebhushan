@@ -7,9 +7,11 @@
 - ⚡ Website: [ranebhushan.github.io](https://ranebhushan.github.io/)
 
 ![Bhushan's Github Stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
+
+<img src="astar.gif" width="25%" height="25%">
 
 <!--
 **ranebhushan/ranebhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
