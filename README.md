@@ -11,7 +11,7 @@
 
 ## Projects
 
-<img src="astar.gif" width="25%" height="25%">
+<img src="astar.gif" width="40%" height="40%">
 
 <!--
 **ranebhushan/ranebhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
