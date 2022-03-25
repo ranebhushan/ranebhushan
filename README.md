@@ -1,6 +1,6 @@
 # Bhushan Ashok Rane
 
-## Howdy!👋
+### Howdy!👋
 
 🤖 I am Robotics Graduate Student at WPI <br>
 📫 How to reach me : barane@wpi.edu <br>
@@ -8,6 +8,13 @@
 
 ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=prs)
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=prs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact" />
+</a>
 
 ## 🧰 Tools and Technologies:
 <p align="left">
