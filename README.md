@@ -54,9 +54,9 @@
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LATEX" width="40" height="40"/> </a>
 </p>
 
-## 👨‍💻 Projects:
+<!-- ## 👨‍💻 Projects:
 
-<img src="astar.gif" width="30%" height="30%">
+<img src="astar.gif" width="30%" height="30%"> -->
 
 <!--
 **ranebhushan/ranebhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
