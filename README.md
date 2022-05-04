@@ -10,7 +10,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranebhushan&label=Profile%20views&color=0e75b6&style=flat" alt="ranebhushan" /> </p> -->
 
-![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=prs)
+![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=stars,prs)
 ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact)
 
 ## 🔗 Connect with me:
