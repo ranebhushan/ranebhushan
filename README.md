@@ -10,8 +10,8 @@
 <!-- 🔭 I’m currently working on [A](abc) -->
 
 ### 🌱 Education  
-🔹 **M.S in Robotics Engineering** from [**Worcester Polytechnic Institute**](https://www.wpi.edu/) (August 2021 ~ Current)  
-🔹 **B.Tech. in Electrical Engineering** from [**College of Engineering Pune**](https://www.coep.org.in/) (July 2015 ~ May 2019)   
+🔹 **Master of Science in Robotics Engineering** from [**Worcester Polytechnic Institute**](https://www.wpi.edu/) (August 2021 - Current)  
+🔹 **Bachelor of Technology in Electrical Engineering** from [**College of Engineering Pune**](https://www.coep.org.in/) (July 2015 - May 2019)   
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranebhushan&label=Profile%20views&color=0e75b6&style=flat" alt="ranebhushan" /> </p> -->
 
