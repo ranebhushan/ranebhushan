@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
+
 # Bhushan Ashok Rane
 
 ### Howdy!👋
@@ -7,6 +9,10 @@
 📬 How to reach me : barane@wpi.edu <br>
 ⚡ Website: [ranebhushan.github.io](https://ranebhushan.github.io/) <br>
 <!-- 🔭 I’m currently working on [A](abc) -->
+
+### 🌱 Education  
+🔹 **M.S in Robotics Engineering** from [**Worcester Polytechnic Institute**](https://www.wpi.edu/) (August 2021 ~ Current)  
+🔹 **B.Tech. in Electrical Engineering** from [**College of Engineering Pune**](https://www.coep.org.in/) (July 2015 ~ May 2019)   
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranebhushan&label=Profile%20views&color=0e75b6&style=flat" alt="ranebhushan" /> </p> -->
 
@@ -72,3 +78,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
