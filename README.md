@@ -15,8 +15,14 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranebhushan&label=Profile%20views&color=0e75b6&style=flat" alt="ranebhushan" /> </p> -->
 
-![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=stars,prs)
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact)
+<div>
+  <a href="https://github.com/ranebhushan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=stars,prs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact&langs_count=6"/>
+</div>
+
+<!-- ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=stars,prs) -->
+<!-- ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact) -->
 
 ## 🔗 Connect with me:
 <p align="left">
