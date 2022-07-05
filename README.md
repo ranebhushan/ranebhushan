@@ -10,15 +10,15 @@
 <!-- 🔭 I’m currently working on [A](abc) -->
 
 ### 🌱 Education  
-🔹 **Master of Science in Robotics Engineering** from [**Worcester Polytechnic Institute**](https://www.wpi.edu/) (August 2021 - Current)  
+🔹 **Master of Science in Robotics Engineering** from [**Worcester Polytechnic Institute**](https://www.wpi.edu/) (August 2021 - May 2023)  
 🔹 **Bachelor of Technology in Electrical Engineering** from [**College of Engineering Pune**](https://www.coep.org.in/) (July 2015 - May 2019)   
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranebhushan&label=Profile%20views&color=0e75b6&style=flat" alt="ranebhushan" /> </p> -->
 
 <div>
   <a href="https://github.com/ranebhushan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=stars,prs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact&langs_count=4"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=stars,prs"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact&langs_count=4"/>
 </div>
 
 <!-- ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=stars,prs) -->
