@@ -6,7 +6,7 @@
 🎓 I am Robotics Graduate Student at WPI <br>
 🎮 I'm an avid gamer <br>
 📬 How to reach me : barane@wpi.edu <br>
-⚡ Website: [ranebhushan.github.io](https://ranebhushan.github.io/) <br>
+<!-- ⚡ Website: [ranebhushan.github.io](https://ranebhushan.github.io/) <br> -->
 <!-- 🔭 I’m currently working on [A](abc) -->
 
 ### 🌱 Education  
