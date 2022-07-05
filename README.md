@@ -17,8 +17,8 @@
 
 <div>
   <a href="https://github.com/ranebhushan">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=stars,prs"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact&langs_count=4"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=stars,prs"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranebhushan&layout=compact&langs_count=4"/>
 </div>
 
 <!-- ![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranebhushan&show_icons=true&&hide=stars,prs) -->
