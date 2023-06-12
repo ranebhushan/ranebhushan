@@ -3,7 +3,7 @@
 
 ### Howdy!👋
 
-🎓 I am Robotics Graduate Student at WPI <br>
+🎓 I am Robotics Software Engineer <br>
 🎮 I'm an avid gamer <br>
 📬 How to reach me : barane@wpi.edu <br>
 <!-- ⚡ Website: [ranebhushan.github.io](https://ranebhushan.github.io/) <br> -->
@@ -11,7 +11,7 @@
 
 ### 🌱 Education  
 🔹 **Master of Science in Robotics Engineering** from [**Worcester Polytechnic Institute**](https://www.wpi.edu/) (August 2021 - May 2023)  
-🔹 **Bachelor of Technology in Electrical Engineering** from [**College of Engineering Pune**](https://www.coep.org.in/) (July 2015 - May 2019)   
+🔹 **Bachelor of Technology in Electrical Engineering** from [**COEP Technological University**](https://www.coep.org.in/) (July 2015 - May 2019)   
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranebhushan&label=Profile%20views&color=0e75b6&style=flat" alt="ranebhushan" /> </p> -->
 
